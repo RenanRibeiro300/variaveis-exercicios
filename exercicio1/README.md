@@ -28,7 +28,6 @@ console.log(valor1, valor2)
 
 ## Parte 2
 
-Agora vamos criar 3 perguntas com valores de Sim ou Não.
 
 Siga as instruções abaixo:
 
